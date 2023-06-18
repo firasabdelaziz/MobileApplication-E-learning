@@ -34,21 +34,27 @@ The "VideoPage" screen allows users to watch video lectures or tutorials related
 To get started with the E-Learning Platform Mobile Application, follow these steps:
 
 1. Clone the repository:
+
+```shell
 git clone https://github.com/firasabdelaziz/Plateform-E-learning
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
+```shell
 cd Plateform-E-learning
 
 3. Install dependencies:
 
+```shell
 npm install
 
 ## Usage
+
 Explain how to run or build the application. Include any necessary commands or configurations. For example:
 
 - Run the app in development mode:
 
+```shell
 npm start
 
 - Download the Expo Go app from the App Store or Google Play Store on your mobile device.
