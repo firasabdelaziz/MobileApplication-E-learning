@@ -37,17 +37,17 @@ To get started with the E-Learning Platform Mobile Application, follow these ste
 
 ```shell
 git clone https://github.com/firasabdelaziz/Plateform-E-learning
-
+```
 3. Navigate to the project directory:
 
 ```shell
 cd Plateform-E-learning
-
+```
 3. Install dependencies:
 
 ```shell
 npm install
-
+```
 ## Usage
 
 Explain how to run or build the application. Include any necessary commands or configurations. For example:
@@ -56,7 +56,7 @@ Explain how to run or build the application. Include any necessary commands or c
 
 ```shell
 npm start
-
+```
 - Download the Expo Go app from the App Store or Google Play Store on your mobile device.
 - Scan the QR code displayed in the terminal or Metro Bundler using the Expo Go app to launch the application on your device.
 
